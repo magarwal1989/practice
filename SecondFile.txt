@@ -1,3 +1,5 @@
 SecondFile new
 wekmflk
 wefewefw
+amend test
+changes after commit
